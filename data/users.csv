@@ -1,0 +1,22 @@
+user_id,user_name,user_email,team_id
+u1,Aaron Anthony,aaron.anthony@example.com,t1
+u2,Alice Adams,alice.adams@example.com,t1
+u3,Amy Abbott,amy.abbott@example.com,t1
+u4,Ben Baker,ben.baker@example.com,t2
+u5,Bella Brooks,bella.brooks@example.com,t2
+u6,Brian Brown,brian.brown@example.com,t2
+u7,Andrew Allen,  Andrew.Allen@Example.COM  ,t1
+u8,Cara Clark,cara.clark@example.com,t3
+u9,Chris Cole,chris.cole@example.com,t3
+u10,Chloe Carter,chloe.carter@example.com,t3
+u11,Fiona Foster,fiona.foster@example.com,t6
+u12,Frank Ford,frank.ford@example.com,t6
+u13,Dana Davis,dana.davis@example.com,t4
+u14,David Diaz,david.diaz@example.com,t4
+u15,Diana Dunn,diana.dunn@example.com,t4
+u16,Emma Edwards,emma.edwards@example.com,t5
+u17,Ethan Ellis,ethan.ellis@example.com,t5
+u18,Eva Evans,eva.evans@example.com,
+u19,Ava Anderson,ava.anderson@example.com,t1
+u1,Aaron Anthony,aaron.anthony@example.com,t3
+u20,Nina Volkov,nina.volkov@example.com,t99

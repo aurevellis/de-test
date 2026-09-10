@@ -1,0 +1,2 @@
+pandas
+# bonus GET: fastapi uvicorn

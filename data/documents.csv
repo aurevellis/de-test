@@ -1,0 +1,13 @@
+document_id,document_name,document_link,project_id,status
+d1,Atlas Architecture,https://docs.example.com/atlas/architecture,p1,active
+d2,Atlas Runbook,https://docs.example.com/atlas/runbook,p1,active
+d3,Atlas API Spec,https://docs.example.com/atlas/api,p1,active
+d4,Atlas Design System,https://docs.example.com/atlas/design,p1,active
+d5,Atlas Onboarding,https://docs.example.com/atlas/onboarding,p1,archived
+d6,Beacon Pipeline,https://docs.example.com/beacon/pipeline,p2,active
+d7,Beacon SLOs,https://docs.example.com/beacon/slos,p2,active
+d8,Beacon Incident Guide,https://docs.example.com/beacon/incidents,p2,active
+d9,Beacon FAQ,https://docs.example.com/beacon/faq,p2,active
+d10,Compass Research Notes,https://docs.example.com/compass/notes,p3,active
+d11,Compass Dataset Catalog,https://docs.example.com/compass/catalog,p3,active
+d12,Compass Ethics,https://docs.example.com/compass/ethics,p3,active
